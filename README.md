@@ -1,18 +1,84 @@
-# React + Vite
+# 🎓 ViveUni Saludable
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**ViveUni Saludable** es una aplicación innovadora diseñada para **promover y fortalecer hábitos de vida saludables en la comunidad universitaria**.  
+Surge como respuesta a los múltiples desafíos que enfrentan los estudiantes en su día a día, tales como:
 
-Currently, two official plugins are available:
+- 🍔 Alimentación inadecuada  
+- 🪑 Sedentarismo  
+- 📚 Estrés académico  
+- 😴 Falta de descanso  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Todos estos factores impactan negativamente en su rendimiento académico y en su bienestar físico y emocional.  
 
-## React Compiler
+---
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+## 🌟 Objetivo
+Mejorar la calidad de vida de los estudiantes mediante **cambios sostenibles en sus rutinas cotidianas**, integrando en un solo espacio herramientas de **salud mental, nutrición, actividad física y bienestar integral**.  
 
-Note: This will impact Vite dev & build performances.
+La aplicación adapta sus recomendaciones según la **carrera del estudiante**, ofreciendo consejos personalizados y motivación específica.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Funcionalidades principales
+
+1. **🧘 Seguimiento de salud mental y bienestar integral**  
+   - Ejercicios de mindfulness  
+   - Técnicas de relajación  
+   - Recursos de apoyo psicológico  
+   - Adaptación a los ciclos académicos (ej. exámenes, entregas)
+
+2. **🎓 Recomendaciones según la carrera universitaria**  
+   - Ingeniería → combatir el sedentarismo prolongado  
+   - Artes → mejorar concentración y creatividad  
+   - Otras carreras → sugerencias adaptadas a las demandas específicas  
+
+3. **📅 Planificación y motivación de hábitos saludables**  
+   - Sistema de metas y recordatorios  
+   - Ingesta adecuada de agua  
+   - Pausas activas  
+   - Sueño regular y alimentación equilibrada  
+   - 🎮 Elementos de gamificación para motivación  
+
+4. **📚 Integración de recursos en un solo espacio**  
+   - Recetas saludables  
+   - Rutinas de ejercicio  
+   - Foros y comunidad  
+   - Tutoriales y contenidos de bienestar
+
+---
+
+## 🌍 Impacto y alineación
+ViveUni Saludable se alinea con los principios del **sello Transformador Areandino**, promoviendo:
+
+- 💡 **Innovación tecnológica** → uso de herramientas modernas y adaptativas  
+- 🤝 **Inclusión social** → accesible para estudiantes de diversos contextos y capacidades  
+- 🌱 **Sostenibilidad** → prácticas que benefician tanto al individuo como al entorno  
+
+Así, se posiciona como una **herramienta transformadora** que impulsa el desarrollo social, académico y personal dentro del entorno universitario.
+
+---
+
+## 🛠️ Tecnologías utilizadas
+- ⚡ [Vite](https://vitejs.dev/)  
+- ⚛️ [React](https://react.dev/)  
+- 🎨 [TailwindCSS](https://tailwindcss.com/)  
+- 🧩 [shadcn/ui](https://ui.shadcn.com/)  
+- 📊 [Recharts](https://recharts.org/)  
+
+---
+
+## ⚙️ Instalación y uso
+
+1. Clona este repositorio:
+
+   git clone https://github.com/tu-usuario/ViveUni-Saludable.git
+   cd ViveUni-Saludable
+
+2. Instala las dependencias:
+   npm install
+
+3. Inicia el proyecto en modo desarrollo:
+   npm run dev
+
+4. Abre en tu navegador:
+   http://localhost:5173
