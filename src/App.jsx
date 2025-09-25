@@ -168,9 +168,18 @@ export default function Dashboard() {
 
   return (
     <div className="min-h-screen bg-gray-100">
-      {/* Barra superior */}
+      {/* Barra superior CON LOGO */}
       <div className="flex justify-between items-center bg-white shadow p-3">
-        <h1 className="text-lg font-bold">🎓 ViveUni Saludable</h1>
+        <div className="flex items-center space-x-3">
+          {/* Logo - coloca tu archivo en public/logo.png */}
+          <img
+            src="/logo.png"
+            alt="Logo ViveUni"
+            className="w-8 h-8 object-contain"
+          />
+          <h1 className="text-lg font-bold">ViveUni Saludable</h1>
+        </div>
+
         <div className="flex items-center space-x-3">
           <img
             src={profile.photo}
